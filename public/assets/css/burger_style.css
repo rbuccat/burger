@@ -1,0 +1,38 @@
+.noteaten {
+	float: left;
+	width: 50%;
+}
+
+.eaten {
+	float: right;
+	width: 50%;
+}
+
+img {
+	width: 20%;
+	margin: 0 auto 0 auto; 
+	display: block;	
+}
+
+h1 {
+	margin-top: -10px;	
+	text-align: center;
+	color: orange;
+}
+
+li {
+  background: #FAEBD7;
+  margin: 5px;
+  padding: 5px;
+}
+
+.create-update-form {
+  margin: 5px;
+  padding: 5px;
+  clear: both;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
